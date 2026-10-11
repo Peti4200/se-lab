@@ -11,7 +11,7 @@ public class TorpedoStore {
 
   // rate of failing to fire torpedos [0.0, 1.0]
   private double FAILURE_RATE = 0.0; //NOSONAR
-  Random generator = new Random();
+  Random generator = new Random(); // Review magyarázat: Így elkerüljük, hogy ugyanazokat az értékeket kapjuk randomként.
   private int torpedoCount = 0;
 
   public TorpedoStore(int numberOfTorpedos){
