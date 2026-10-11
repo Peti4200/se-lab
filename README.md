@@ -1,3 +1,5 @@
+[![CodeQL Advanced](https://github.com/Peti4200/se-lab/actions/workflows/codeql.yml/badge.svg)](https://github.com/Peti4200/se-lab/actions/workflows/codeql.yml) [![License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
+
 # SE Spaceship
 
 This is a sample application for the [Software Engineering](http://www.mit.bme.hu/oktatas/targyak/vimiab04) course at BME MIT.
@@ -39,4 +41,3 @@ The project represents an alpha version of a spaceship.
 
 The code can be built, but due to missing features one of the tests fails. The first exercise will be to fix this.
 
-[![CodeQL Advanced](https://github.com/Peti4200/se-lab/actions/workflows/codeql.yml/badge.svg)](https://github.com/Peti4200/se-lab/actions/workflows/codeql.yml)
